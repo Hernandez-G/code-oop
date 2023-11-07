@@ -1,5 +1,7 @@
 ## You've got the Code for Object Oriented Programming (Course 1). Yeehaw!
 
+<h4>This is a follow along tutorial. For training purposes.  </h4>
+
 Hi there! Inside this code download you'll find the following things:
 
 * A `start/` directory: how the project looked at the *start* of the tutorial
