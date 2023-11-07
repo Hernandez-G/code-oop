@@ -24,3 +24,7 @@ Pull up the new site by going to:
 
     http://localhost:8000
 
+<!-- I do not own this project. This is a follow along tutorial from Drupalize.Me  -->
+
+
+<!-- FOR TRAINING PURPOSES ONLY. -->
